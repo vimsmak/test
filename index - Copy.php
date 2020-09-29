@@ -16,5 +16,3 @@ This is the third branch code
 This is the third branch code need to commit
 This is the third branch code need to commit
 This is the third branch code need to commit
-
-This is the second branch code need to commit need to merage in master
